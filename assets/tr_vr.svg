@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="170" viewBox="0 0 150 170"><defs><filter id="gl"><feGaussianBlur stdDeviation="6"/></filter><style>.t{font-family:'Courier New',Consolas,monospace;font-weight:700}</style></defs>
-<polygon points="132.2,109.0 75.0,142.0 17.8,109.0 17.8,43.0 75.0,10.0 132.2,43.0" fill="none" stroke="#7FA2F0" stroke-width="2" stroke-dasharray="4 7" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 75 76" to="360 75 76" dur="24s" repeatCount="indefinite"/></polygon>
-<polygon points="121.8,103.0 75.0,130.0 28.2,103.0 28.2,49.0 75.0,22.0 121.8,49.0" fill="#7FA2F0" filter="url(#gl)" opacity=".15"><animate attributeName="opacity" values=".1;.65;.1" dur="3s" begin="0.6s" repeatCount="indefinite"/></polygon>
-<polygon points="121.8,103.0 75.0,130.0 28.2,103.0 28.2,49.0 75.0,22.0 121.8,49.0" fill="#060C1F" stroke="#1A3063" stroke-width="3"/>
-<polygon points="114.8,99.0 75.0,122.0 35.2,99.0 35.2,53.0 75.0,30.0 114.8,53.0" fill="#1A3063" stroke="#7FA2F0" stroke-width="1.5"/>
-<text x="75" y="87" text-anchor="middle" class="t" font-size="30" fill="#C9D6FF">VR<animate attributeName="opacity" values="1;1;.4;1" keyTimes="0;.9;.93;1" dur="4.1s" repeatCount="indefinite"/></text>
-<rect x="45" y="146" width="60" height="18" rx="3" fill="#060C1F" stroke="#1A3063" stroke-width="1.5"/>
-<text x="75" y="159" text-anchor="middle" class="t" font-size="12" fill="#7FA2F0">gt</text>
-</svg>

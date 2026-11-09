@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="14" viewBox="0 0 1000 14"><defs><linearGradient id="gg" x1="0" x2="1"><stop offset="0" stop-color="#7FA2F0" stop-opacity="0"/><stop offset=".5" stop-color="#C9D6FF"/><stop offset="1" stop-color="#7FA2F0" stop-opacity="0"/></linearGradient></defs>
-<rect x="14" y="6" width="972" height="2" fill="#1A3063"/>
-<rect x="-160" y="5" width="160" height="4" fill="url(#gg)"><animate attributeName="x" values="-160;1000" dur="3.5s" repeatCount="indefinite"/></rect>
-<polygon points="7,1 13,7 7,13 1,7" fill="#7FA2F0"/><polygon points="993,1 999,7 993,13 987,7" fill="#7FA2F0"/>
-<polygon points="500,2 505,7 500,12 495,7" fill="#C9D6FF"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></polygon>
-</svg>
